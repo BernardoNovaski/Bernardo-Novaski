@@ -25,7 +25,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e buscando tr
 
 * Desenvolvimento de Software
 * Tecnologia
-* Automação de processos
+* Automação de processo
 * Análise de dados
 * Gestão de TI
 * Soluções para problemas do cotidiano
