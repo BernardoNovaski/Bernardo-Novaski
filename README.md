@@ -46,3 +46,4 @@ Atualmente estou construindo minha base em programação e desenvolvimento de si
 
 * 💼 **LinkedIn:** [Bernardo Novaski](https://www.linkedin.com/in/bernardo-novaski-1079a9219)
 * 📸 **Instagram:** [@bernardo_novaski_dev](https://www.instagram.com/bernardo_novaski_dev)
+*  **YouTube:** [@BerNo_Dev_ofc](https://www.youtube.com/@BerNo_Dev_ofc)
